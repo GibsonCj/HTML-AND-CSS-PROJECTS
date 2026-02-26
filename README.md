@@ -9,6 +9,7 @@ this repository will be used to store the different HTML and CSS projects assign
 * One Page Website
 * Simple Recipes Website
 * The Pet Shop Website
+* Portfolio
 
 # ACADEMY CINEMAS
 This page is a project for the home page of a movie theater, using bootstrap to style several portions of the page for practice with the framework
@@ -30,3 +31,6 @@ This page covers the Simple Recipes project, its significantly styled with CSS f
 
 # The Pet Shop Website
 This page covers the Pet Shop project, this website includes different pages for the main content as well as a contact page, while site wide styling is applied to both
+
+# Portfolio
+This project covers all the work done to create a personal portfolio website for myself, styled and updated over the course of time at The Tech Academy
